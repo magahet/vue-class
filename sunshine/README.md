@@ -1,5 +1,9 @@
 # sunshine
 
+Sunshine is a demo Vue.js app
+
+![Screenshot](Screenshot.png)
+
 ## Project setup
 ```
 npm install
